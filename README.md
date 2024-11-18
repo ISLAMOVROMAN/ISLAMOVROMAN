@@ -7,45 +7,27 @@
 ## Свяжитесь со мной:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/wannatoqa/)  
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/romalik)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/romalik)  
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:romaliku@gmail.com)
 
 ---
 
 ## Инструменты и технологии
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="python.svg" alt="Python" width="50" height="50">
-  </div>
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="postman.svg" alt="Postman" width="50" height="50">
-  </div>
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="charles.svg" alt="Charles Proxy" width="50" height="50">
-  </div>
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="androidstudio.svg" alt="Android Studio" width="50" height="50">
-  </div>
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="qase.svg" alt="Qase" width="50" height="50">
-  </div>
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="xampp.svg" alt="XAMPP" width="50" height="50">
-  </div>
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="leica.svg" alt="Leica Captivate" width="50" height="50">
-  </div>
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="pycharm.svg" alt="PyCharm" width="50" height="50">
-  </div>
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="docker.svg" alt="Docker" width="50" height="50">
-  </div>
-  <div style="background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 8px; padding: 10px; display: inline-block;">
-    <img src="jira.svg" alt="JIRA" width="50" height="50">
-  </div>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 20px;">
+
+  <img src="python.svg" alt="Python" width="50" height="50">
+  <img src="postman.svg" alt="Postman" width="50" height="50">
+  <img src="charles.svg" alt="Charles Proxy" width="50" height="50">
+  <img src="androidstudio.svg" alt="Android Studio" width="50" height="50">
+  <img src="qase.svg" alt="Qase" width="50" height="50">
+  <img src="xampp.svg" alt="XAMPP" width="50" height="50">
+  <img src="leica.svg" alt="Leica Captivate" width="50" height="50">
+  <img src="pycharm.svg" alt="PyCharm" width="50" height="50">
+  <img src="docker.svg" alt="Docker" width="50" height="50">
+  <img src="jira.svg" alt="JIRA" width="50" height="50">
+
+</div>
 
 ---
 
@@ -59,5 +41,3 @@
 ## Описание
 
 В моем профиле вы найдете репозитории с тестовыми проектами, автоматизацией и примерами работы с инструментами.
-
-
