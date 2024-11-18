@@ -15,16 +15,36 @@
 
 ### Работал с этими инструментами и программами:
 
-- ![Python](python.svg) **Python**: Использовал для написания скриптов и автоматизации процессов.
-- ![Postman](postman.svg) **Postman**: Тестировал API запросы, создавал коллекции тестов.
-- ![Charles Proxy](charles.svg) **Charles Proxy**: Анализировал сетевой трафик и проводил отладку приложений.
-- ![Android Studio](androidstudio.svg) **Android Studio**: Работал над отладкой мобильных приложений.
-- ![Qase](qase.svg) **Qase**: Управлял тестовой документацией и создавал тест-кейсы.
-- ![XAMPP](xampp.svg) **XAMPP**: Настраивал и работал с локальными серверами.
-- ![Leica Captivate](leica.svg) **Leica Captivate**: Работал с приборами Leica для геодезических измерений.
-- ![PyCharm](pycharm.svg) **PyCharm**: Использовал для разработки на Python.
-- ![Docker](docker.svg) **Docker**: Работал с контейнерами для развертывания приложений.
-- ![JIRA](jira.svg) **JIRA**: Управлял задачами и отслеживал баги.
+<p align="left">
+  <img src="python.svg" alt="Python" width="50" height="50"> **Python**: Использовал для написания скриптов и автоматизации процессов.
+</p>
+<p align="left">
+  <img src="postman.svg" alt="Postman" width="50" height="50"> **Postman**: Тестировал API запросы, создавал коллекции тестов.
+</p>
+<p align="left">
+  <img src="charles.svg" alt="Charles Proxy" width="50" height="50"> **Charles Proxy**: Анализировал сетевой трафик и проводил отладку приложений.
+</p>
+<p align="left">
+  <img src="androidstudio.svg" alt="Android Studio" width="50" height="50"> **Android Studio**: Работал над отладкой мобильных приложений.
+</p>
+<p align="left">
+  <img src="qase.svg" alt="Qase" width="50" height="50"> **Qase**: Управлял тестовой документацией и создавал тест-кейсы.
+</p>
+<p align="left">
+  <img src="xampp.svg" alt="XAMPP" width="50" height="50"> **XAMPP**: Настраивал и работал с локальными серверами.
+</p>
+<p align="left">
+  <img src="leica.svg" alt="Leica Captivate" width="50" height="50"> **Leica Captivate**: Работал с приборами Leica для геодезических измерений.
+</p>
+<p align="left">
+  <img src="pycharm.svg" alt="PyCharm" width="50" height="50"> **PyCharm**: Использовал для разработки на Python.
+</p>
+<p align="left">
+  <img src="docker.svg" alt="Docker" width="50" height="50"> **Docker**: Работал с контейнерами для развертывания приложений.
+</p>
+<p align="left">
+  <img src="jira.svg" alt="JIRA" width="50" height="50"> **JIRA**: Управлял задачами и отслеживал баги.
+</p>
 
 ---
 
