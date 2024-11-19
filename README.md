@@ -16,16 +16,15 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; padding: 20px;">
 
-  <img src="python.svg" alt="Python" width="50" height="50">
-  <img src="postman.svg" alt="Postman" width="50" height="50">
-  <img src="charles.svg" alt="Charles Proxy" width="50" height="50">
-  <img src="androidstudio.svg" alt="Android Studio" width="50" height="50">
-  <img src="qase.svg" alt="Qase" width="50" height="50">
-  <img src="xampp.svg" alt="XAMPP" width="50" height="50">
-  <img src="leica.svg" alt="Leica Captivate" width="50" height="50">
-  <img src="pycharm.svg" alt="PyCharm" width="50" height="50">
-  <img src="docker.svg" alt="Docker" width="50" height="50">
-  <img src="jira.svg" alt="JIRA" width="50" height="50">
+  <img src="ICONS/python.png" alt="Python" width="50" height="50">
+  <img src="ICONS/postman.png" alt="Postman" width="50" height="50">
+  <img src="ICONS/charles.png" alt="Charles Proxy" width="50" height="50">
+  <img src="ICONS/androidstudio.png" alt="Android Studio" width="50" height="50">
+  <img src="ICONS/qase.png" alt="Qase" width="50" height="50">
+  <img src="ICONS/xampp.png" alt="XAMPP" width="50" height="50">
+  <img src="ICONS/leica.png" alt="Leica Captivate" width="50" height="50">
+  <img src="ICONS/pycharm.png" alt="PyCharm" width="50" height="50">
+  <img src="ICONS/jira.png" alt="JIRA" width="50" height="50">
 
 </div>
 
