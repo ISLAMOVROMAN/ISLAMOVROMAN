@@ -6,9 +6,13 @@
 
 ## Свяжитесь со мной:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/wannatoqa/)  
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/romalik)  
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/wannatoqa/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/romalik)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:romaliku@gmail.com)
+
+</div>
 
 ---
 
@@ -39,4 +43,4 @@
 
 ## Описание
 
-В моем профиле вы найдете репозитории с тестовыми проектами, автоматизацией и примерами работы с инструментами.
+В моем профиле вы найдете репозитории с тестовыми
