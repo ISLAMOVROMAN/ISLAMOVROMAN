@@ -20,43 +20,29 @@
 
 ### 📝 Тестовая документация:
 <div align="center" style="display: flex; gap: 15px;">
-  <img src="ICONS/jira.png" alt="JIRA" width="50" height="50" title="JIRA">
-  <img src="ICONS/qase.png" alt="Qase" width="50" height="50" title="Qase">
-  <img src="ICONS/charles.png" alt="Charles Proxy" width="50" height="50" title="Charles Proxy">
+  <img src="icons/Jira.svg" alt="JIRA" width="50" height="50" title="JIRA">
+  <img src="icons/QASE.png" alt="Qase" width="50" height="50" title="Qase">
+  <img src="icons/Youtrack.png" alt="YouTrack" width="50" height="50" title="YouTrack">
 </div>
 
 ---
 
 ### 🌐 Тестирование веб-приложений:
 <div align="center" style="display: flex; gap: 15px;">
-  <img src="ICONS/postman.png" alt="Postman" width="50" height="50" title="Postman">
-  <img src="ICONS/python.png" alt="Python" width="50" height="50" title="Python">
+  <img src="icons/ChromeDev.png" alt="Chrome DevTools" width="50" height="50" title="Chrome DevTools">
+  <img src="icons/Postman.png" alt="Postman" width="50" height="50" title="Postman">
+  <img src="icons/Soapui.svg" alt="SoapUI" width="50" height="50" title="SoapUI">
 </div>
 
 ---
 
 ### 📱 Тестирование мобильных приложений:
 <div align="center" style="display: flex; gap: 15px;">
-  <img src="ICONS/androidstudio.png" alt="Android Studio" width="50" height="50" title="Android Studio">
-  <img src="ICONS/leica.png" alt="Leica Captivate" width="50" height="50" title="Leica Captivate">
+  <img src="icons/androidsdk.svg" alt="Android SDK" width="50" height="50" title="Android SDK">
+  <img src="icons/fiddler.png" alt="Fiddler" width="50" height="50" title="Fiddler">
 </div>
 
 ---
 
 ### 🗄️ Работа с данными:
-<div align="center" style="display: flex; gap: 15px;">
-  <img src="ICONS/xampp.png" alt="XAMPP" width="50" height="50" title="XAMPP">
-</div>
-
----
-
-### 🛠️ Работа с кодом:
-<div align="center" style="display: flex; gap: 15px;">
-  <img src="ICONS/pycharm.png" alt="PyCharm" width="50" height="50" title="PyCharm">
-</div>
-
----
-
-## 📜 Сертификаты:
-
-- [Программирование на Python](https://stepik.org/cert
+<div align="center" style="display: flex; gap
