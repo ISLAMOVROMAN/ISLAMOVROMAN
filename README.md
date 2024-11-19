@@ -57,7 +57,7 @@
 ### 🛠️ Работа с кодом:
 <div align="center" style="display: flex; gap: 15px;">
   <img src="icons/visualstudio.svg" alt="Visual Studio" width="50" height="50" title="Visual Studio">
-  <img src="icons/pycharm.png" alt="PyCharm" width="50" height="50" title="PyCharm">
+  <img src="icons/PyCharm.png" alt="PyCharm" width="50" height="50" title="PyCharm">
 </div>
 
 ---
