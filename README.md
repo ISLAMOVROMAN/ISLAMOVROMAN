@@ -22,9 +22,9 @@
 
   <img src="ICONS/python.png" alt="Python" width="50" height="50">
   <img src="ICONS/postman.png" alt="Postman" width="50" height="50">
+   <img src="ICONS/qase.png" alt="Qase" width="50" height="50">
   <img src="ICONS/charles.png" alt="Charles Proxy" width="50" height="50">
   <img src="ICONS/androidstudio.png" alt="Android Studio" width="50" height="50">
-  <img src="ICONS/qase.png" alt="Qase" width="50" height="50">
   <img src="ICONS/xampp.png" alt="XAMPP" width="50" height="50">
   <img src="ICONS/leica.png" alt="Leica Captivate" width="50" height="50">
   <img src="ICONS/pycharm.png" alt="PyCharm" width="50" height="50">
