@@ -7,9 +7,17 @@ On my page, you will find examples of automated tests written in Python + Seleni
 ---
 
 ## 📞 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/wannatoqa/)  
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&style=flat)](https://t.me/romalik)  
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat)](mailto:0923asol@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/wannatoqa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/romalik" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram">
+  </a>
+  <a href="mailto:0923asol@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
+  </a>
+</p>
 
 ---
 
