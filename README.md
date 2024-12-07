@@ -1,49 +1,39 @@
-# Привет, меня зовут Роман!
-
-👨‍💻 Я начинающий тестировщик и разработчик, активно изучаю тестирование и программирование. В своем профиле я делюсь проектами, инструментами и своими успехами в этой области. Моя цель — стать профессионалом и делиться опытом с сообществом.
-
----
-
-## 📬 Contact Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wannatoqa/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:0923asol@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/romalik)  
-
----
-
-## 🛠 Tools and Technologies:
+# 🛠 Tools and Technologies:
 
 ### 🖥 Development:
-![Python](./icons/Python.svg)
-![PyCharm](./icons/PyCharm.svg)
-![Postman](./icons/Postman.png)
-![Chrome DevTools](./icons/ChromeDev.png)
+<p align="center">
+  <img src="./icons/Python.svg" alt="Python" width="80" height="80">
+  <img src="./icons/PyCharm.svg" alt="PyCharm" width="80" height="80">
+  <img src="./icons/Postman.png" alt="Postman" width="80" height="80">
+  <img src="./icons/ChromeDev.png" alt="Chrome DevTools" width="80" height="80">
+</p>
 
 ### 📊 Testing Tools:
-![Selenium](./icons/Selenium.svg)
-![QASE](./icons/QASE.png)
-![SoapUI](./icons/Soapui.svg)
-![Charles](./icons/charles.webp)
-![Fiddler](./icons/fiddler.png)
+<p align="center">
+  <img src="./icons/Selenium.svg" alt="Selenium" width="80" height="80">
+  <img src="./icons/QASE.png" alt="QASE" width="80" height="80">
+  <img src="./icons/Soapui.svg" alt="SoapUI" width="80" height="80">
+  <img src="./icons/charles.webp" alt="Charles" width="80" height="80">
+  <img src="./icons/fiddler.png" alt="Fiddler" width="80" height="80">
+</p>
 
 ### 💾 Databases:
-![MySQL](./icons/mysql.svg)
-![MongoDB](./icons/mongodb.svg)
+<p align="center">
+  <img src="./icons/mysql.svg" alt="MySQL" width="80" height="80">
+  <img src="./icons/mongodb.svg" alt="MongoDB" width="80" height="80">
+</p>
 
 ### 🔧 Development Environments:
-![Figma](./icons/Figma.svg)
-![Xcode](./icons/Xcode.svg)
-![Visual Studio](./icons/visualstudio.svg)
+<p align="center">
+  <img src="./icons/Figma.svg" alt="Figma" width="80" height="80">
+  <img src="./icons/Xcode.svg" alt="Xcode" width="80" height="80">
+  <img src="./icons/visualstudio.svg" alt="Visual Studio" width="80" height="80">
+</p>
 
 ---
 
 ## 🚀 AutoTests:
-
-### Frameworks:
-![Python](./icons/Python.svg)
-![Selenium](./icons/Selenium.svg)
-
----
-
-Если вам нужно внести дополнительные изменения, просто скажите, и я обновлю!
+<p align="center">
+  <img src="./icons/Python.svg" alt="Python" width="80" height="80">
+  <img src="./icons/Selenium.svg" alt="Selenium" width="80" height="80">
+</p>
