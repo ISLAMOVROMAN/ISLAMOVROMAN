@@ -50,3 +50,33 @@ On my page, you will find examples of automated tests written in Python + Seleni
 ### 💾 Data Handling:
 <p align="left">
   <img src="./icons/mysql.svg" alt="MySQL" width="40" height="40">
+  <img src="./icons/mongodb.svg" alt="MongoDB" width="40" height="40">
+</p>
+
+### ✏️ Coding:
+<p align="left">
+  <img src="./icons/PyCharm.svg" alt="PyCharm" width="40" height="40">
+  <img src="./icons/Python.svg" alt="Python" width="40" height="40">
+  <img src="./icons/visualstudio.svg" alt="Visual Studio" width="40" height="40">
+</p>
+
+### 🔧 Development Tools:
+<p align="left">
+  <img src="./icons/DEV.svg" alt="Development Tools" width="40" height="40">
+  <img src="./icons/Figma.svg" alt="Figma" width="40" height="40">
+</p>
+
+---
+
+## 🎓 Certifications:
+<p align="left">
+  <a href="https://stepik.org/cert/2213124?lang=en" target="_blank">
+    <img src="./Certificates/PostmanCourse.png" alt="Postman Certificate" width="150">
+  </a>
+  <a href="https://stepik.org/cert/2506692?lang=en" target="_blank">
+    <img src="./Certificates/Python.png" alt="Python Certificate" width="150">
+  </a>
+  <a href="https://stepik.org/cert/2666323?lang=en" target="_blank">
+    <img src="./Certificates/QA.png" alt="QA Certificate" width="150">
+  </a>
+</p>
