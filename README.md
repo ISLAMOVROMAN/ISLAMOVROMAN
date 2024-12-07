@@ -1,51 +1,80 @@
-# Hi, I'm Roman Islamov! 👋
+# Привет, меня зовут Исламов Роман!
 
-## About Me:
-I'm Roman Islamov, currently working as a Quality Engineer in construction. Besides that, I am actively developing my skills in QA Software and QA Automation. In my free time, I enjoy writing automated tests and exploring new technologies in testing.
+## 👨‍💻 About Me:
+I am Roman Islamov, currently working as a Quality Engineer in construction, and actively developing in QA Software and QA Automation.  
+On my page, you will find examples of automated tests written in Python + Selenium, as well as other useful resources for beginners and experienced testers.  
 
-On my page, you will find examples of automated tests using **Python + Selenium** and other helpful resources for beginners and experienced testers alike.
+---
 
 ## 📞 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wannatoqa/) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/romalik) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:0923asol@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/wannatoqa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/romalik" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram">
+  </a>
+  <a href="mailto:0923asol@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
+  </a>
+</p>
 
 ---
 
-# 🚀 Tools and Technologies:
+## 🚀 Tools and Technologies:
 
-## 📁 Test Documentation:
-- ![QASE](./icons/QASE.png) QASE  
-- ![YouTrack](./icons/Youtrack.png) YouTrack  
-- ![Jira](./icons/Jira.svg) Jira  
+### 📁 Test Documentation:
+<p align="left">
+  <img src="./icons/QASE.png" alt="QASE" width="40" height="40">
+  <img src="./icons/Youtrack.png" alt="YouTrack" width="40" height="40">
+  <img src="./icons/Jira.svg" alt="Jira" width="40" height="40">
+</p>
 
-## 🛠 Web Application Testing:
-- ![Selenium](./icons/Selenium.svg) Selenium  
-- ![Postman](./icons/Postman.png) Postman  
-- ![SoapUI](./icons/Soapui.svg) SoapUI  
-- ![Charles](./icons/charles.webp) Charles  
+### 🛠 Web Application Testing:
+<p align="left">
+  <img src="./icons/Selenium.svg" alt="Selenium" width="40" height="40">
+  <img src="./icons/Postman.png" alt="Postman" width="40" height="40">
+  <img src="./icons/Soapui.svg" alt="SoapUI" width="40" height="40">
+</p>
 
-## 📱 Mobile Application Testing:
-- ![Android SDK](./icons/androidsdk.svg) Android SDK  
-- ![Fiddler](./icons/fiddler.png) Fiddler  
+### 📱 Mobile Application Testing:
+<p align="left">
+  <img src="./icons/androidsdk.svg" alt="Android SDK" width="40" height="40">
+  <img src="./icons/charles.webp" alt="Charles" width="40" height="40">
+  <img src="./icons/fiddler.png" alt="Fiddler" width="40" height="40">
+</p>
 
-## 💾 Data Handling:
-- ![MySQL](./icons/mysql.svg) MySQL  
-- ![MongoDB](./icons/mongodb.svg) MongoDB  
+### 💾 Data Handling:
+<p align="left">
+  <img src="./icons/mysql.svg" alt="MySQL" width="40" height="40">
+  <img src="./icons/mongodb.svg" alt="MongoDB" width="40" height="40">
+</p>
 
-## ✏️ Coding:
-- ![PyCharm](./icons/PyCharm.svg) PyCharm  
-- ![Python](./icons/Python.svg) Python  
-- ![Visual Studio](./icons/visualstudio.svg) Visual Studio  
-- ![Xcode](./icons/Xcode.svg) Xcode  
+### ✏️ Coding:
+<p align="left">
+  <img src="./icons/PyCharm.svg" alt="PyCharm" width="40" height="40">
+  <img src="./icons/Python.svg" alt="Python" width="40" height="40">
+  <img src="./icons/visualstudio.svg" alt="Visual Studio" width="40" height="40">
+  <img src="./icons/Xcode.svg" alt="Xcode" width="40" height="40">
+</p>
 
-## 🔗 Development Tools:
-- ![Chrome Dev](./icons/ChromeDev.png) Chrome Dev  
-- ![Figma](./icons/Figma.svg) Figma  
+### 🔗 Development Tools:
+<p align="left">
+  <img src="./icons/ChromeDev.png" alt="Chrome Dev" width="40" height="40">
+  <img src="./icons/Figma.svg" alt="Figma" width="40" height="40">
+</p>
 
 ---
 
-# 📜 Certifications:
-[![Postman Certificate](./Certificates/PostmanCourse.png)](https://stepik.org/cert/2213124?lang=en)  
-[![Python Certificate](./Certificates/Python.png)](https://stepik.org/cert/2506692?lang=en)  
-[![QA Certificate](./Certificates/QA.png)](https://stepik.org/cert/2666323?lang=en)
+## 🎓 Certifications:
+<p align="left">
+  <a href="https://stepik.org/cert/2213124?lang=en" target="_blank">
+    <img src="./Certificates/PostmanCourse.png" alt="Postman Certificate" width="120">
+  </a>
+  <a href="https://stepik.org/cert/2506692?lang=en" target="_blank">
+    <img src="./Certificates/Python.png" alt="Python Certificate" width="120">
+  </a>
+  <a href="https://stepik.org/cert/2666323?lang=en" target="_blank">
+    <img src="./Certificates/QA.png" alt="QA Certificate" width="120">
+  </a>
+</p>
