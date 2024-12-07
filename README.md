@@ -1,78 +1,49 @@
-# Hi! 👋
+# Привет, меня зовут Роман!
 
-I am a QA Engineer with experience in software testing and geodesy. I’m continuously developing my skills in IT, exploring new technologies, and working on test automation.
-
----
-
-🌟 **Connect with me:**
-
-<div align="center" style="display: flex; gap: 10px;">
-  <a href="https://t.me/Romalik" target="_blank">
-    <img src="https://img.icons8.com/color/40/000000/telegram-app.png" alt="Telegram" title="Telegram">
-  </a>
-  <a href="https://www.linkedin.com/in/wannatoqa/" target="_blank">
-    <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn" title="LinkedIn">
-  </a>
-</div>
+👨‍💻 Я начинающий тестировщик и разработчик, активно изучаю тестирование и программирование. В своем профиле я делюсь проектами, инструментами и своими успехами в этой области. Моя цель — стать профессионалом и делиться опытом с сообществом.
 
 ---
 
-📋 **Tools and Categories:**
+## 📬 Contact Me:
 
-### 📝 Test Documentation:
-
-<div align="center" style="display: flex; gap: 15px;">
-  <img src="icons/Jira.svg" alt="JIRA" width="50" height="50" title="JIRA">
-  <img src="icons/QASE.png" alt="Qase" width="50" height="50" title="Qase">
-  <img src="icons/Youtrack.png" alt="YouTrack" width="50" height="50" title="YouTrack">
-  <img src="icons/Figma.svg" alt="Figma" width="50" height="50" title="Figma">
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wannatoqa/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:0923asol@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/romalik)  
 
 ---
 
-### 🌐 Web Application Testing:
+## 🛠 Tools and Technologies:
 
-<div align="center" style="display: flex; gap: 15px;">
-  <img src="icons/ChromeDev.png" alt="Chrome DevTools" width="50" height="50" title="Chrome DevTools">
-  <img src="icons/Postman.png" alt="Postman" width="50" height="50" title="Postman">
-  <img src="icons/Soapui.svg" alt="SoapUI" width="50" height="50" title="SoapUI">
-</div>
+### 🖥 Development:
+![Python](./icons/Python.svg)
+![PyCharm](./icons/PyCharm.svg)
+![Postman](./icons/Postman.png)
+![Chrome DevTools](./icons/ChromeDev.png)
 
----
+### 📊 Testing Tools:
+![Selenium](./icons/Selenium.svg)
+![QASE](./icons/QASE.png)
+![SoapUI](./icons/Soapui.svg)
+![Charles](./icons/charles.webp)
+![Fiddler](./icons/fiddler.png)
 
-### 📱 Mobile Application Testing:
+### 💾 Databases:
+![MySQL](./icons/mysql.svg)
+![MongoDB](./icons/mongodb.svg)
 
-<div align="center" style="display: flex; gap: 15px;">
-  <img src="icons/androidsdk.svg" alt="Android SDK" width="50" height="50" title="Android SDK">
-  <img src="icons/fiddler.png" alt="Fiddler" width="50" height="50" title="Fiddler">
-  <img src="icons/Xcode.svg" alt="Xcode" width="50" height="50" title="Xcode">
-</div>
-
----
-
-### 🗄️ Data Management:
-
-<div align="center" style="display: flex; gap: 15px;">
-  <img src="icons/mysql.svg" alt="MySQL" width="50" height="50" title="MySQL">
-  <img src="icons/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB">
-</div>
+### 🔧 Development Environments:
+![Figma](./icons/Figma.svg)
+![Xcode](./icons/Xcode.svg)
+![Visual Studio](./icons/visualstudio.svg)
 
 ---
 
-### 🛠️ Coding Tools:
+## 🚀 AutoTests:
 
-<div align="center" style="display: flex; gap: 15px;">
-  <img src="icons/visualstudio.svg" alt="Visual Studio" width="50" height="50" title="Visual Studio">
-  <img src="icons/PyCharm.svg" alt="PyCharm" width="50" height="50" title="PyCharm">
-</div>
-
----
-
-### 📂 Repositories:
-
-- [DemoQA Automated Tests](https://github.com/ISLAMOVROMAN/Selenium-Python/)
-- [API Testing with Postman](https://github.com/ISLAMOVROMAN/Selenium-Python/)
+### Frameworks:
+![Python](./icons/Python.svg)
+![Selenium](./icons/Selenium.svg)
 
 ---
 
-Feel free to let me know if you want any further refinements!
+Если вам нужно внести дополнительные изменения, просто скажите, и я обновлю!
