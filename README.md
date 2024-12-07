@@ -1,18 +1,15 @@
-# Привет, меня зовут Исламов Роман! / Hello, my name is Roman Islamov!
+# Hello, my name is Roman Islamov!
 
-### 👨‍💻 Обо мне / About me:
-Меня зовут Исламов Роман, на данный момент я работаю инженером отдела качества в строительстве.  
+### 👨‍💻 About me:
 I am Roman Islamov, currently working as a quality control engineer in construction.
 
-Помимо этого, я активно развиваюсь в области QA Software и QA Automation. В свободное время занимаюсь написанием автотестов и изучением новых технологий в тестировании.  
-In addition, I am actively developing in QA Software and QA Automation, writing automated tests and exploring new testing technologies in my free time.
+In addition, I am actively developing in QA Software and QA Automation. I spend my free time writing automated tests and exploring new technologies in testing.
 
-На моей странице вы найдёте примеры автотестов на **Python + Selenium**, а также другие полезные ресурсы для начинающих и опытных тестировщиков.  
-On my page, you will find examples of **Python + Selenium** automated tests and other useful resources for beginners and experienced testers.
+On my page, you will find examples of **Python + Selenium** automated tests, as well as other useful resources for beginners and experienced testers.
 
 ---
 
-### 📞 Связаться со мной / Contact me:
+### 📞 Contact me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wannatoqa/">
@@ -28,35 +25,35 @@ On my page, you will find examples of **Python + Selenium** automated tests and 
 
 ---
 
-### 🚀 Используемые технологии и инструменты / Technologies and Tools:
+### 🚀 Technologies and Tools:
 
-#### 📁 Тестовая документация / Test Documentation:
+#### 📁 Test Documentation:
 <p align="center">
   <img src="./icons/QASE.png" alt="QASE" width="80">
   <img src="./icons/Jira.svg" alt="Jira" width="80">
   <img src="./icons/Youtrack.png" alt="YouTrack" width="80">
 </p>
 
-#### 🛠 Тестирование веб-приложений / Web Application Testing:
+#### 🛠 Web Application Testing:
 <p align="center">
   <img src="./icons/Selenium.svg" alt="Selenium" width="80">
   <img src="./icons/Postman.png" alt="Postman" width="80">
   <img src="./icons/ChromeDev.png" alt="Chrome DevTools" width="80">
 </p>
 
-#### 📱 Тестирование мобильных приложений / Mobile Application Testing:
+#### 📱 Mobile Application Testing:
 <p align="center">
   <img src="./icons/androidsdk.svg" alt="Android SDK" width="80">
   <img src="./icons/Xcode.svg" alt="Xcode" width="80">
 </p>
 
-#### 💾 Работа с данными / Data Management:
+#### 💾 Data Management:
 <p align="center">
   <img src="./icons/mongodb.svg" alt="MongoDB" width="80">
   <img src="./icons/mysql.svg" alt="MySQL" width="80">
 </p>
 
-#### ✏️ Работа с кодом / Code Work:
+#### ✏️ Code Work:
 <p align="center">
   <img src="./icons/PyCharm.svg" alt="PyCharm" width="80">
   <img src="./icons/Python.svg" alt="Python" width="80">
@@ -67,7 +64,7 @@ On my page, you will find examples of **Python + Selenium** automated tests and 
 
 ---
 
-### 📚 Пройденные курсы и сертификаты / Completed Courses and Certificates:
+### 📚 Completed Courses and Certificates:
 
 <p align="center">
   <a href="https://stepik.org/cert/2213124?lang=en" target="_blank">
@@ -83,19 +80,17 @@ On my page, you will find examples of **Python + Selenium** automated tests and 
 
 ---
 
-### 📂 Мои проекты / My Projects:
-- [Автотесты на Python + Selenium / Automated Tests in Python + Selenium](https://github.com/ISLAMOVROMAN/your-repo-name)
-- Примеры работы с API с использованием **Postman** / API testing with **Postman**
-- Создание тестовой документации и чек-листов / Test documentation and checklists creation
+### 📂 My Projects:
+- [Automated Tests in Python + Selenium](https://github.com/ISLAMOVROMAN/your-repo-name)
+- API testing with **Postman**
+- Test documentation and checklists creation
 
 ---
 
-### 🎯 Моя цель / My Goal:
-Я ищу возможности развиваться в QA Automation и совершенствовать свои навыки в тестировании ПО.  
+### 🎯 My Goal:
 I am looking for opportunities to grow in QA Automation and improve my software testing skills.
 
 ---
 
-### 🌟 Благодарю за внимание! / Thank you for your attention!
-Если у вас есть вопросы, предложения или пожелания, не стесняйтесь написать мне. Я всегда открыт для общения и новых возможностей!  
+### 🌟 Thank you for your attention!
 If you have any questions, suggestions, or proposals, feel free to reach out. I am always open to communication and new opportunities!
