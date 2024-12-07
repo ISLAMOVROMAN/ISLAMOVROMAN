@@ -1,4 +1,4 @@
-# Привет, меня зовут Исламов Роман!
+# Hello World
 
 ## 👨‍💻 About Me:
 I am Roman Islamov, currently working as a Quality Engineer in construction, and actively developing in QA Software and QA Automation.  
