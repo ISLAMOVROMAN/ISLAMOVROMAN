@@ -68,12 +68,12 @@ On my page, you will find examples of automated tests written in Python + Seleni
 ## 🎓 Certifications:
 <p align="left">
   <a href="https://stepik.org/cert/2213124?lang=en" target="_blank">
-    <img src="./Certificates/PostmanCourse.png" alt="Postman Certificate" width="150">
+    <img src="./Certificates/PostmanCourse.png" alt="Postman Certificate" width="180">
   </a>
   <a href="https://stepik.org/cert/2506692?lang=en" target="_blank">
-    <img src="./Certificates/Python.png" alt="Python Certificate" width="150">
+    <img src="./Certificates/Python.png" alt="Python Certificate" width="180">
   </a>
   <a href="https://stepik.org/cert/2666323?lang=en" target="_blank">
-    <img src="./Certificates/QA.png" alt="QA Certificate" width="150">
+    <img src="./Certificates/QA.png" alt="QA Certificate" width="180">
   </a>
 </p>
