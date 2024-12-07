@@ -96,17 +96,19 @@ Here are some of my key projects related to testing and automation:
 
 ---
 
+---
+
 ## 🏆 Achievements on Test.io:
 Check out my [Test.io profile](https://tester.test.io/profile_pages/roman_islamov) to see all my accomplishments and contributions.
 
 <p align="left">
-  <img src="./testio_badges/CertifiedReproductionTester.png" alt="Certified Reproduction Tester" width="100" height="100">
-  <img src="./testio_badges/CertifiedExploratoryTester.png" alt="Certified Exploratory Tester" width="100" height="100">
-  <img src="./testio_badges/LaunchStarProfile.png" alt="Launch Star Profile" width="100" height="100">
-  <img src="./testio_badges/StreamingTesting.png" alt="Streaming Testing" width="100" height="100">
-  <img src="./testio_badges/HardwareTesting.png" alt="Hardware Testing" width="100" height="100">
-  <img src="./testio_badges/CertifiedUserStoryTester.png" alt="Certified User Story Tester" width="100" height="100">
-  <img src="./testio_badges/BugApproved.png" alt="Bug Approved" width="100" height="100">
-  <img src="./testio_badges/WithTestIO.png" alt="1 Month with Test IO" width="100" height="100">
-  <img src="./testio_badges/InTestRankingWinner.png" alt="In-Test Ranking Winner" width="100" height="100">
+  <img src="./Testio_Badges/certified_reproduction_tester.svg" alt="Certified Reproduction Tester" width="120">
+  <img src="./Testio_Badges/certified_exploratory_tester.svg" alt="Certified Exploratory Tester" width="120">
+  <img src="./Testio_Badges/launch_star_profile.svg" alt="Launch Star Profile" width="120">
+  <img src="./Testio_Badges/certified_streaming_tester.svg" alt="Certified Streaming Tester" width="120">
+  <img src="./Testio_Badges/certified_hardware_tester.svg" alt="Certified Hardware Tester" width="120">
+  <img src="./Testio_Badges/certified_user_story_tester.svg" alt="Certified User Story Tester" width="120">
+  <img src="./Testio_Badges/bugs_approved_1.svg" alt="Bug Approved" width="120">
+  <img src="./Testio_Badges/with_test_io_1_mm.svg" alt="1 Month with Test IO" width="120">
+  <img src="./Testio_Badges/in_test_ranking_winner_1.svg" alt="In-Test Ranking Winner" width="120">
 </p>
