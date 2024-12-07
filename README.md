@@ -29,37 +29,37 @@ On my page, you will find examples of **Python + Selenium** automated tests, as 
 
 #### 📁 Test Documentation:
 <p align="center">
-  <img src="./icons/QASE.png" alt="QASE" width="80">
-  <img src="./icons/Jira.svg" alt="Jira" width="80">
-  <img src="./icons/Youtrack.png" alt="YouTrack" width="80">
+  <img src="./icons/QASE.png" alt="QASE" width="60">
+  <img src="./icons/Jira.svg" alt="Jira" width="60">
+  <img src="./icons/Youtrack.png" alt="YouTrack" width="60">
 </p>
 
 #### 🛠 Web Application Testing:
 <p align="center">
-  <img src="./icons/Selenium.svg" alt="Selenium" width="80">
-  <img src="./icons/Postman.png" alt="Postman" width="80">
-  <img src="./icons/ChromeDev.png" alt="Chrome DevTools" width="80">
+  <img src="./icons/Selenium.svg" alt="Selenium" width="60">
+  <img src="./icons/Postman.png" alt="Postman" width="60">
+  <img src="./icons/ChromeDev.png" alt="Chrome DevTools" width="60">
 </p>
 
 #### 📱 Mobile Application Testing:
 <p align="center">
-  <img src="./icons/androidsdk.svg" alt="Android SDK" width="80">
-  <img src="./icons/Xcode.svg" alt="Xcode" width="80">
+  <img src="./icons/androidsdk.svg" alt="Android SDK" width="60">
+  <img src="./icons/Xcode.svg" alt="Xcode" width="60">
 </p>
 
 #### 💾 Data Management:
 <p align="center">
-  <img src="./icons/mongodb.svg" alt="MongoDB" width="80">
-  <img src="./icons/mysql.svg" alt="MySQL" width="80">
+  <img src="./icons/mongodb.svg" alt="MongoDB" width="60">
+  <img src="./icons/mysql.svg" alt="MySQL" width="60">
 </p>
 
 #### ✏️ Code Work:
 <p align="center">
-  <img src="./icons/PyCharm.svg" alt="PyCharm" width="80">
-  <img src="./icons/Python.svg" alt="Python" width="80">
-  <img src="./icons/Figma.svg" alt="Figma" width="80">
-  <img src="./icons/visualstudio.svg" alt="Visual Studio" width="80">
-  <img src="./icons/Soapui.svg" alt="SoapUI" width="80">
+  <img src="./icons/PyCharm.svg" alt="PyCharm" width="60">
+  <img src="./icons/Python.svg" alt="Python" width="60">
+  <img src="./icons/Figma.svg" alt="Figma" width="60">
+  <img src="./icons/visualstudio.svg" alt="Visual Studio" width="60">
+  <img src="./icons/Soapui.svg" alt="SoapUI" width="60">
 </p>
 
 ---
