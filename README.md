@@ -4,8 +4,6 @@
 I am Roman Islamov, currently working as a Quality Engineer in construction, and actively developing in QA Software and QA Automation.  
 On my page, you will find examples of automated tests written in Python + Selenium, as well as other useful resources for beginners and experienced testers.  
 
----
-
 ## 📞 Contact Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/wannatoqa/" target="_blank">
@@ -19,6 +17,24 @@ On my page, you will find examples of automated tests written in Python + Seleni
   </a>
 </p>
 
+## 🧪 My QA Projects:
+Here are some of my key projects related to testing and automation:
+
+### 🔍 Automated Tests:
+<p align="left">
+  <a href="https://github.com/ISLAMOVROMAN/Selenium-Python" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-Selenium_Python-blue?logo=github&style=for-the-badge" alt="Selenium Python">
+  </a>
+  Examples of automated tests written in Python + Selenium.
+</p>
+
+### 📝 Test Cases:
+<p align="left">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Test_Cases-Documentation-orange?logo=bookstack&style=for-the-badge" alt="Test Cases">
+  </a>
+  A collection of detailed and well-structured test cases for web and mobile applications.
+</p>
 ---
 
 ## 🚀 Tools and Technologies:
