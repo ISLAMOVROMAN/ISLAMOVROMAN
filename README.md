@@ -42,6 +42,7 @@ On my page, you will find examples of automated tests written in Python + Seleni
   <img src="./icons/androidsdk.svg" alt="Android SDK" width="40" height="40">
   <img src="./icons/charles.webp" alt="Charles" width="40" height="40">
   <img src="./icons/fiddler.png" alt="Fiddler" width="40" height="40">
+  <img src="./icons/Xcode.svg" alt="Xcode" width="40" height="40">
 </p>
 
 ### 💾 Data Handling:
@@ -55,7 +56,6 @@ On my page, you will find examples of automated tests written in Python + Seleni
   <img src="./icons/PyCharm.svg" alt="PyCharm" width="40" height="40">
   <img src="./icons/Python.svg" alt="Python" width="40" height="40">
   <img src="./icons/visualstudio.svg" alt="Visual Studio" width="40" height="40">
-  <img src="./icons/Xcode.svg" alt="Xcode" width="40" height="40">
 </p>
 
 ### 🔗 Development Tools:
