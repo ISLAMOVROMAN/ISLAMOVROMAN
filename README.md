@@ -37,7 +37,7 @@ On my page, you will find examples of automated tests written in Python + Seleni
   <img src="./icons/Selenium.svg" alt="Selenium" width="40" height="40">
   <img src="./icons/Postman.png" alt="Postman" width="40" height="40">
   <img src="./icons/Soapui.svg" alt="SoapUI" width="40" height="40">
-  <img src="./icons/Figma.svg" alt="Figma" width="40" height="40">
+  
 </p>
 
 ### 📱 Mobile Application Testing:
