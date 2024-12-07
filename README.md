@@ -15,111 +15,37 @@ On my page, you will find examples of automated tests using **Python + Selenium*
 # 🚀 Tools and Technologies:
 
 ## 📁 Test Documentation:
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./icons/QASE.png" alt="QASE" width="40" height="40"><br>QASE
-    </td>
-    <td align="center" width="50%">
-      <img src="./icons/Youtrack.png" alt="YouTrack" width="40" height="40"><br>YouTrack
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./icons/Jira.svg" alt="Jira" width="40" height="40"><br>Jira
-    </td>
-  </tr>
-</table>
+- ![QASE](./icons/QASE.png) QASE  
+- ![YouTrack](./icons/Youtrack.png) YouTrack  
+- ![Jira](./icons/Jira.svg) Jira  
 
 ## 🛠 Web Application Testing:
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./icons/Selenium.svg" alt="Selenium" width="40" height="40"><br>Selenium
-    </td>
-    <td align="center" width="50%">
-      <img src="./icons/Postman.png" alt="Postman" width="40" height="40"><br>Postman
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./icons/Soapui.svg" alt="SoapUI" width="40" height="40"><br>SoapUI
-    </td>
-    <td align="center" width="50%">
-      <img src="./icons/charles.webp" alt="Charles" width="40" height="40"><br>Charles
-    </td>
-  </tr>
-</table>
+- ![Selenium](./icons/Selenium.svg) Selenium  
+- ![Postman](./icons/Postman.png) Postman  
+- ![SoapUI](./icons/Soapui.svg) SoapUI  
+- ![Charles](./icons/charles.webp) Charles  
 
 ## 📱 Mobile Application Testing:
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./icons/androidsdk.svg" alt="Android SDK" width="40" height="40"><br>Android SDK
-    </td>
-    <td align="center" width="50%">
-      <img src="./icons/fiddler.png" alt="Fiddler" width="40" height="40"><br>Fiddler
-    </td>
-  </tr>
-</table>
+- ![Android SDK](./icons/androidsdk.svg) Android SDK  
+- ![Fiddler](./icons/fiddler.png) Fiddler  
 
 ## 💾 Data Handling:
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./icons/mysql.svg" alt="MySQL" width="40" height="40"><br>MySQL
-    </td>
-    <td align="center" width="50%">
-      <img src="./icons/mongodb.svg" alt="MongoDB" width="40" height="40"><br>MongoDB
-    </td>
-  </tr>
-</table>
+- ![MySQL](./icons/mysql.svg) MySQL  
+- ![MongoDB](./icons/mongodb.svg) MongoDB  
 
 ## ✏️ Coding:
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./icons/PyCharm.svg" alt="PyCharm" width="40" height="40"><br>PyCharm
-    </td>
-    <td align="center" width="50%">
-      <img src="./icons/Python.svg" alt="Python" width="40" height="40"><br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./icons/visualstudio.svg" alt="Visual Studio" width="40" height="40"><br>Visual Studio
-    </td>
-    <td align="center" width="50%">
-      <img src="./icons/Xcode.svg" alt="Xcode" width="40" height="40"><br>Xcode
-    </td>
-  </tr>
-</table>
+- ![PyCharm](./icons/PyCharm.svg) PyCharm  
+- ![Python](./icons/Python.svg) Python  
+- ![Visual Studio](./icons/visualstudio.svg) Visual Studio  
+- ![Xcode](./icons/Xcode.svg) Xcode  
 
 ## 🔗 Development Tools:
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./icons/ChromeDev.png" alt="Chrome Dev" width="40" height="40"><br>Chrome Dev
-    </td>
-    <td align="center" width="50%">
-      <img src="./icons/Figma.svg" alt="Figma" width="40" height="40"><br>Figma
-    </td>
-  </tr>
-</table>
+- ![Chrome Dev](./icons/ChromeDev.png) Chrome Dev  
+- ![Figma](./icons/Figma.svg) Figma  
 
 ---
 
 # 📜 Certifications:
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://stepik.org/cert/2213124?lang=en"><img src="./Certificates/PostmanCourse.png" alt="Postman Certificate" width="200"></a>
-    </td>
-    <td align="center">
-      <a href="https://stepik.org/cert/2506692?lang=en"><img src="./Certificates/Python.png" alt="Python Certificate" width="200"></a>
-    </td>
-    <td align="center">
-      <a href="https://stepik.org/cert/2666323?lang=en"><img src="./Certificates/QA.png" alt="QA Certificate" width="200"></a>
-    </td>
-  </tr>
-</table>
+[![Postman Certificate](./Certificates/PostmanCourse.png)](https://stepik.org/cert/2213124?lang=en)  
+[![Python Certificate](./Certificates/Python.png)](https://stepik.org/cert/2506692?lang=en)  
+[![QA Certificate](./Certificates/QA.png)](https://stepik.org/cert/2666323?lang=en)
