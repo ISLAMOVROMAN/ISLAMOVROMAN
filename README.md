@@ -93,7 +93,7 @@
     <img src="./Certificates/QA.png" alt="QA Certificate" width="180">
   </a>
   <a href="https://stepik.org/cert/2715199?lang=en" target="_blank">
-    <img src="./Certificates/NewCertificate.png" alt="New Certificate" width="180">
+    <img src="./Certificates/Automation.png" alt="New Certificate" width="180">
   </a>
 </p>
 
